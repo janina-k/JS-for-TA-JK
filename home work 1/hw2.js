@@ -20,9 +20,9 @@ let res3 = y != x
 console.log(res3);
 console.log( typeof res3);
 
-let res4 = parseInt("a" + x + y)
-console.log(res4);
-console.log( typeof res4);
+// let res4 = parseInt("a" + x + y)
+// console.log(res4);
+// console.log( typeof res4);
 
 // task2
 
